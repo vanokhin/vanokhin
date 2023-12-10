@@ -1,5 +1,8 @@
-# Vova Anohin
-
-[github.com/vanokhin](https://github.com/vanokhin)
+---
+title: "Vova Anokhin"
+---
 
 {% include_relative README.md %}
+
+---
+&copy; [Vova Anokhin](https://github.com/vanokhin)
