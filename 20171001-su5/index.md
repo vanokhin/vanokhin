@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "What's new in Shortcodes Ultimate 5"
-date: 2017-10-01
 permalink: /su5
 ---
 

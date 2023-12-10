@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "SU now supports Gutenberg"
-date: 2017-10-01
 permalink: /su-gutenberg
 ---
 
