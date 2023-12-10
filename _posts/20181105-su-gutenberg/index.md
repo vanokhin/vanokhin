@@ -1,3 +1,10 @@
+---
+layout: post
+title: "SU now supports Gutenberg"
+date: 2017-10-01
+permalink: /su-gutenberg
+---
+
 Hey dear users!
 
 Today, I released a new version of Shortcodes Ultimate (5.1.0) which introduces support for the new WordPress editor called Gutenberg.

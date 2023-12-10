@@ -1,3 +1,10 @@
+---
+layout: post
+title: "What's new in Shortcodes Ultimate 5"
+date: 2017-10-01
+permalink: /su5
+---
+
 ## What’s new in Shortcodes Ultimate 5
 
 I’m glad to announce you completion of my work on the 5th version of Shortcodes Ultimate plugin. In this post, I’d like to tell you about changes in the new version.
