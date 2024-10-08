@@ -6,4 +6,4 @@ You may already know me as the developer of [Shortcodes Ultimate](https://getsho
 
 ## Get in touch
 
-If you have a question regarding Shortcodes Ultimate, please head to the [support center](https://getshortcodes.com/support/?from=githubcontact). Otherwise, find me here t.me/vanokhin
+If you have a question regarding Shortcodes Ultimate, please head to the [help center](https://getshortcodes.com/support/?from=githubcontact). Otherwise, find me here t.me/vanokhin
