@@ -1,9 +1,1 @@
-## About Me
-
-Hi, I'm Vova - an independent web developer.
-
-You may already know me as the developer of [Shortcodes Ultimate](https://getshortcodes.com) plugin. This plugin is available in the official WordPress repository, has more than 600,000 active installations and over 18 million downloads.
-
-## Get in touch
-
-If you have a question regarding Shortcodes Ultimate, please head to the [help center](https://getshortcodes.com/support/?from=githubcontact). Otherwise, find me here t.me/vanokhin
+Hello, I'm Vova, an independent web developer. You might know me as the creator of the [Shortcodes Ultimate](https://getshortcodes.com) plugin. It’s available in the official WordPress directory, has over 600,000 active installs, and more than 18 million downloads. I also work with React and Next.js, so feel free to ask me about them. If you have a question about Shortcodes Ultimate, please visit the [help center](https://getshortcodes.com/support/?from=githubcontact). For anything else, you can reach me at t.me/vanokhin.
